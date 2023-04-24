@@ -1,1 +1,1 @@
-# Unsupervised_Learning_Recommenders_Reinforcement_Learning-coursera
+# Unsupervised Learning, Recommenders, Reinforcement Learning
